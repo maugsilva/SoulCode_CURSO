@@ -1,0 +1,29 @@
+body {
+  background-color: #3498db; /* Cor de fundo */
+  font-family: Arial, sans-serif;
+  color: #fff; /* Cor do texto principal */
+  margin: 0;
+  padding: 20px;
+}
+
+#TituloPrincipal {
+  color: #000000; /* Cor do título principal */
+  text-align: center;
+}
+
+p {
+  color: #ecf0f1; /* Cor do texto dos parágrafos */
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+code {
+  background-color: #2ecc71; /* Cor de fundo do bloco de código */
+  color: #fff;
+  padding: 5px;
+  border: 1px solid #27ae60; /* Borda do bloco de código */
+  display: block;
+  margin-top: 20px;
+  overflow-x: auto; /* Adicionar barra de rolagem horizontal se necessário */
+}
