@@ -1,0 +1,7 @@
+Aula 125 - Exercício Prático
+Crie um script js + página web contendo as seguintes especificações:
+
+
+Crie uma API de validação de formulário; * seu formulário deve estar estilizado com CSS.
+Crie uma API para criar botão de navegação usando o histórico. * seu botão deve estar estilizado com CSS.
+Crie um botão que obtenha os dados de geolocalização do usuário ao clicar. * seu botão deve estar estilizado com CSS.

@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    border: solid white 5px;
+    background-color: darkturquoise;
+
+}
+
+html {
+    background-color: black;
+}
+
+/*título*/
+.title {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title:hover {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: white 2px 2px 2px;
+}
+
+/*Botão*/
+#bttn {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(82, 241, 19);
+    width: 25%;
+    height: 10%;
+    cursor: pointer;
+}
